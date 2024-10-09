@@ -1,4 +1,4 @@
-# Frontend Mentor - Bento grid solution
+# FM - Bento grid solution
 
 This is a solution to the [Bento grid challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/bento-grid-RMydElrlOj). 
 
@@ -20,6 +20,4 @@ This is a solution to the [Bento grid challenge on Frontend Mentor](https://www.
 - Mobile-first workflow
 
 
-## Author
-
-- Frontend Mentor - [@krish](https://www.frontendmentor.io/profile/krishanprajapat23)
+🚀🚀🚀
